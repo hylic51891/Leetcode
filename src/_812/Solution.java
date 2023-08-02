@@ -40,18 +40,16 @@ public class Solution {
         int[] point1,point2,point3;
         double maxSquare = 0.0;
         double square = 0.0;
-        double
         for(int i = 0; i < length;i++){
             point1 = points[i];
             for (int j = i+1; j < length;j++){
                 point2 = points[j];
                 for (int k = j+1; k < length;k++){
                     point3 = points[k];
-                    bottom =
-                    square =
 
                 }
             }
         }
+        return 0.0;
     }
 }
