@@ -1,5 +1,3 @@
-package rookieAlgo;
-
 import java.util.*;
 
 /**
