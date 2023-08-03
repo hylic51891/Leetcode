@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/jianzhi75/jianzhi75.iml" filepath="$PROJECT_DIR$/jianzhi75/jianzhi75.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnAndTest/learnAndTest.iml" filepath="$PROJECT_DIR$/learnAndTest/learnAndTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/rookieAlgo/rookieAlgo.iml" filepath="$PROJECT_DIR$/rookieAlgo/rookieAlgo.iml" />
       <module fileurl="file://$PROJECT_DIR$/themes/themes.iml" filepath="$PROJECT_DIR$/themes/themes.iml" />
     </modules>
