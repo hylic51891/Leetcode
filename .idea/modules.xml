@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/rookieAlgo/DP/DP.iml" filepath="$PROJECT_DIR$/rookieAlgo/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jianzhi75/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/jianzhi75/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jianzhi75/Search_trace/Search_trace.iml" filepath="$PROJECT_DIR$/jianzhi75/Search_trace/Search_trace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookieAlgo/design/design.iml" filepath="$PROJECT_DIR$/rookieAlgo/design/design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jianzhi75/doublePtr/doublePtr.iml" filepath="$PROJECT_DIR$/jianzhi75/doublePtr/doublePtr.iml" />
       <module fileurl="file://$PROJECT_DIR$/jianzhi75/jianzhi75.iml" filepath="$PROJECT_DIR$/jianzhi75/jianzhi75.iml" />
       <module fileurl="file://$PROJECT_DIR$/learnAndTest/learnAndTest.iml" filepath="$PROJECT_DIR$/learnAndTest/learnAndTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookieAlgo/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/rookieAlgo/linkedList/linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookieAlgo/number/number.iml" filepath="$PROJECT_DIR$/rookieAlgo/number/number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookieAlgo/other/other.iml" filepath="$PROJECT_DIR$/rookieAlgo/other/other.iml" />
       <module fileurl="file://$PROJECT_DIR$/rookieAlgo/rookieAlgo.iml" filepath="$PROJECT_DIR$/rookieAlgo/rookieAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jianzhi75/simulation/simulation.iml" filepath="$PROJECT_DIR$/jianzhi75/simulation/simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookieAlgo/sortAndSearch/sortAndSearch.iml" filepath="$PROJECT_DIR$/rookieAlgo/sortAndSearch/sortAndSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jianzhi75/stack_queue/stack_queue.iml" filepath="$PROJECT_DIR$/jianzhi75/stack_queue/stack_queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/themes/themes.iml" filepath="$PROJECT_DIR$/themes/themes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookieAlgo/tree/tree.iml" filepath="$PROJECT_DIR$/rookieAlgo/tree/tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
     </modules>
   </component>
 </project>
