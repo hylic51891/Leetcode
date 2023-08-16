@@ -1,7 +1,9 @@
+package array;
+
 import java.util.*;
 
 /**
- * ClassName: intersect
+ * ClassName: array.intersect
  * Package: PACKAGE_NAME
  * Description:
  *

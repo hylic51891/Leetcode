@@ -1,7 +1,9 @@
+package array;
+
 import java.util.Arrays;
 
 /**
- * ClassName: plusOne
+ * ClassName: array.plusOne
  * Package: PACKAGE_NAME
  * Description:
  *

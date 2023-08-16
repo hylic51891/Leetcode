@@ -1,7 +1,9 @@
+package array;
+
 import java.util.Arrays;
 
 /**
- * ClassName: maxProfit
+ * ClassName: array.maxProfit
  * Package: PACKAGE_NAME
  * Description:
  *

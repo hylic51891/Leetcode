@@ -1,7 +1,9 @@
+package array;
+
 import java.util.HashSet;
 
 /**
- * ClassName: moveZeros
+ * ClassName: array.moveZeros
  * Package: PACKAGE_NAME
  * Description:
  *

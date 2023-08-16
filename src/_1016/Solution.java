@@ -133,8 +133,8 @@ class Solution {
     }
 
     public boolean queryString5(String S, int n) {
-        var seen = new HashSet<Integer>();
-        var s = S.toCharArray();
+        HashSet<Integer> seen = new HashSet<>();
+        char[] s = S.toCharArray();
         for (int i = 0, m = s.length; i < m; ++i) {
             int x = s[i] - '0';
             if (x == 0) continue; // 二进制数从 1 开始
