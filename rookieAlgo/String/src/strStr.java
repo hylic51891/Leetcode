@@ -1,5 +1,3 @@
-package String;
-
 /**
  * ClassName: strStr
  * Package: String

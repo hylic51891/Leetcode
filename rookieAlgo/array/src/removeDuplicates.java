@@ -1,5 +1,3 @@
-package array;
-
 /**
  * ClassName: array.removeDuplicates
  * Package: PACKAGE_NAME

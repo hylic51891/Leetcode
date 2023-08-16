@@ -1,5 +1,3 @@
-package String;
-
 /**
  * ClassName: isPalindrome
  * Package: String

@@ -1,5 +1,3 @@
-package String;
-
 /**
  * ClassName: reverse
  * Package: String

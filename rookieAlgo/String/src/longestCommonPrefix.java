@@ -1,5 +1,3 @@
-package String;
-
 /**
  * ClassName: longestCommonPrefix
  * Package: String
