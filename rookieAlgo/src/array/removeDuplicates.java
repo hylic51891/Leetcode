@@ -1,5 +1,7 @@
+package array;
+
 /**
- * ClassName: removeDuplicates
+ * ClassName: array.removeDuplicates
  * Package: PACKAGE_NAME
  * Description:
  *

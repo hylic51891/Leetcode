@@ -1,7 +1,9 @@
+package array;
+
 import java.util.*;
 
 /**
- * ClassName: twoSum
+ * ClassName: array.twoSum
  * Package: rookieAlgo
  *
  * @description

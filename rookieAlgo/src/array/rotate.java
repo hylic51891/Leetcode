@@ -1,7 +1,9 @@
+package array;
+
 import java.util.*;
 
 /**
- * ClassName: rotate
+ * ClassName: array.rotate
  * Package: PACKAGE_NAME
  * Description:
  *

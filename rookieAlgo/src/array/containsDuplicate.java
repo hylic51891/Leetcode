@@ -1,8 +1,10 @@
+package array;
+
 import java.util.Arrays;
 import java.util.HashSet;
 
 /**
- * ClassName: containsDuplicate
+ * ClassName: array.containsDuplicate
  * Package: PACKAGE_NAME
  * Description:
  *

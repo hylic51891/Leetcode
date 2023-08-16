@@ -1,8 +1,10 @@
+package array;
+
 import java.util.HashMap;
 import java.util.HashSet;
 
 /**
- * ClassName: isValidSudoku
+ * ClassName: array.isValidSudoku
  * Package: PACKAGE_NAME
  * Description:
  *
