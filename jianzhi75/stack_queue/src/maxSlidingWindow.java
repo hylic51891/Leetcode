@@ -94,4 +94,34 @@ public class maxSlidingWindow {
         }
         return ret;
     }
+
+    /** 20230824 hot100 又做了一次
+     *  看过单调队列之后，自己写了一遍。
+     */
+    public int[] maxSlidingWindow3(int[] nums, int k) {
+        if(k<=1) return nums;
+        int[] res = new int[nums.length-k+1];
+        Deque<Integer> queue = new LinkedList<>();
+        // 保存最大值以及下标在他之后的次最大值,次次最大值...
+        // 单调队列，保存下标严格递增，值严格递减的值
+        // 新入栈的值依次比较栈中最后的值
+        // 栈中最多有K个值
+        for (int i = 0; i < k-1; i++) {
+            int cur = nums[i];
+            while(!queue.isEmpty() && nums[queue.peekLast()]< cur) queue.pollLast();
+            queue.offerLast(i);
+        }
+        // res[0] = nums[queue.pollFirst()];
+        int right = k-1;
+        while(right < nums.length){
+            int cur = nums[right];
+            while(!queue.isEmpty() && nums[queue.peekLast()]< cur) queue.pollLast();
+            queue.offerLast(right);
+            int maxIndex = queue.peekFirst();
+            res[right-k+1] = nums[maxIndex];
+            if(right-k+1== maxIndex) queue.pollFirst();
+            right++;
+        }
+        return res;
+    }
 }
