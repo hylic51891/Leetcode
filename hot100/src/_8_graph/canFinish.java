@@ -1,5 +1,6 @@
 package _8_graph;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 
 /**
@@ -45,7 +46,6 @@ public class canFinish {
             hasCycle = true;
         }
         if(visited[start] || hasCycle) return;
-
         visited[start] = true;
         onPath[start] = true;
         for(int index:adjList[start]){

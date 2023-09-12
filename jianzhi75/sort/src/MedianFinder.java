@@ -1,3 +1,4 @@
+import java.util.LinkedList;
 import java.util.PriorityQueue;
 
 /**
@@ -46,5 +47,6 @@ public class MedianFinder {
         if(size%2==0) return ((double)rightHeap.peek()+leftHeap.peek())/2.0;
         if(rightHeap.size() > leftHeap.size()) return rightHeap.peek();
         else return leftHeap.peek();
+
     }
 }
